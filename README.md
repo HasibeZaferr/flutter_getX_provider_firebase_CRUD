@@ -1,3 +1,7 @@
+## Flutter | Firebase CRUD with GetX Provider
+
+https://user-images.githubusercontent.com/16256211/232230721-74230336-59d9-4c3e-989d-3fe3570feb0f.mp4
+
 # flutter_fittrack![1](https://user-images.githubusercontent.com/16256211/232228502-27390679-ebaa-433a-887d-c5f63f91778b.png)
 
 ![2](https://user-images.githubusercontent.com/16256211/232228510-20d068f5-4533-4a99-8249-20551817dc4d.png)
