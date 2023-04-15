@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1094429283002",
+    "project_id": "fittrack-e5a63",
+    "storage_bucket": "fittrack-e5a63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094429283002:android:2e8191d91662b6640d2883",
+        "android_client_info": {
+          "package_name": "com.hasibezafer.flutter_fittrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094429283002-8kmqofdaeiv6pmjmpsuqt99s3j1t6hm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOEkCDL3DK5lg6ERybAkt6WeVfZHVpNUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094429283002-8kmqofdaeiv6pmjmpsuqt99s3j1t6hm1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094429283002-ena1bmrpo6j3s8j1s0n3anpqb49jjavn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hasibezafer.flutter-fittrack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
